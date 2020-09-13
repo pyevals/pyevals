@@ -6,7 +6,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![Documentation Status](https://readthedocs.org/projects/pyevals/badge/?version=latest)](https://pyevals.readthedocs.io/en/latest/?badge=latest)
 [![Apache V2 License][license-shield]][license-url]
@@ -95,8 +94,6 @@ Project Link: [https://github.com/anirudhpnbb/Pyevals](https://github.com/anirud
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/badge/contributors-1-blue
-[contributors-url]: https://github.com/anirudhpnbb/Pyevals/graphs/contributors
 [issues-shield]: https://img.shields.io/badge/Issues-0-green
 [issues-url]: https://github.com/anirudhpnbb/Pyevals/issues
 [license-shield]: https://img.shields.io/badge/LICENSE-ApacheV2-brightgreen
